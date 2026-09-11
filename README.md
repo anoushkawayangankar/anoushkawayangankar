@@ -217,22 +217,6 @@ goal:
 
 ---
 
-## ⊹ GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anoushkawayangankar&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7C3AED&icon_color=8B5CF6&text_color=374151&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushkawayangankar&layout=compact&hide_border=true&bg_color=ffffff&title_color=7C3AED&text_color=374151"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anoushkawayangankar&hide_border=true&background=ffffff&stroke=DDD6FE&ring=8B5CF6&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=6B7280&dates=9CA3AF&currStreakNum=7C3AED&sideNums=374151"/>
-
-</div>
-
----
-
 ## ♡ Outside the code
 
 I believe good developers aren't just people who know a lot of syntax.
