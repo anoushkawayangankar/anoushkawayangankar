@@ -15,7 +15,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/anoushkawayangankar?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <br><br>
@@ -30,17 +30,21 @@
 
 I'm **Anoushka**, a developer who enjoys turning ideas into things people can actually use.
 
-My GitHub is a collection of experiments, applications, and projects I've built while exploring different areas of software development — from interactive web experiences and productivity tools to finance applications and AI-powered learning systems.
+My GitHub is a collection of experiments, applications, and projects I've built while exploring different areas of software development — from interactive iOS experiences and accessibility-focused tools to distributed systems, AI-powered learning, and web applications.
 
 I like projects that sit somewhere between **useful, interesting, and slightly challenging**.
 
 ```text
 currently
 ──────────────
-learning      →  software development
-building      →  web applications & product ideas
-exploring     →  AI + interactive experiences
-experimenting →  new technologies
+learning      → software development
+building      → applications & product ideas
+exploring     → AI + iOS + distributed systems
+experimenting → new technologies
+
+mindset
+──────────────
+learn → build → break → understand → improve
 ```
 
 ---
@@ -53,47 +57,46 @@ experimenting →  new technologies
 <tr>
 <td width="50%">
 
-### 🧠 CREO Learning Coach
+### 🎨 AirCanvas
 
-An adaptive learning experience designed to make studying more personalized.
+An interactive iOS project exploring creative interaction through the camera and real-world input.
 
 **Highlights**
 
-* AI-powered tutoring
-* Adaptive Learning Mode
-* Personalized learner profiles
-* Progress tracking
-* Chat-based interaction
-* Authentication & profiles
+* Interactive camera experience
+* Gesture-driven interaction
+* Native iOS implementation
+* Creative visual workflows
 
-`Next.js` `TypeScript` `Gemini` `Prisma` `SQLite`
+`Swift` `SwiftUI` `iOS`
 
-<a href="https://github.com/anoushkawayangankar/CREO-NEW">
-View project →
+<br>
+
+<a href="https://github.com/anoushkawayangankar/AirCanvas">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 💰 Personal Finance Tracker
+### 🔍 AccessLens
 
-A browser-based finance application for managing everyday transactions.
+An accessibility-focused iOS project exploring how technology can help identify and understand accessibility barriers in real-world environments.
 
 **Highlights**
 
-* Income & expense tracking
-* Search & filtering
-* Transaction editing
-* Category analytics
-* Expense visualization
-* Light / dark mode
-* Local persistence
+* Accessibility-first concept
+* Computer vision exploration
+* Real-world environment analysis
+* Native iOS experience
 
-`JavaScript` `HTML` `CSS` `Canvas`
+`Swift` `SwiftUI` `Computer Vision`
 
-<a href="https://github.com/anoushkawayangankar/transactionproj">
-View project →
+<br>
+
+<a href="https://github.com/anoushkawayangankar/AccessLens">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -102,30 +105,46 @@ View project →
 <tr>
 <td width="50%">
 
-### 🌤 Weather App
+### ⚡ CRDTdb
 
-A lightweight weather application built while exploring modern React development.
+A Rust project exploring **conflict-free distributed database systems**, replication, consistency, and deterministic state convergence.
 
-`React` `Vite` `JavaScript` `CSS`
+**Highlights**
 
-<a href="https://github.com/anoushkawayangankar/weather-app">
-View project →
+* CRDT-based architecture
+* Distributed state management
+* Conflict resolution
+* Rust systems programming
+
+`Rust` `CRDT` `Distributed Systems`
+
+<br>
+
+<a href="https://github.com/anoushkawayangankar/CRDTdb">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🦖 T-Rex Runner
+### 🧩 DAO
 
-A browser-based recreation of the classic offline dinosaur game.
+A Rust-based exploration of decentralized systems and DAO concepts.
 
-Built with interactive game logic, custom assets and browser-based rendering.
+**Highlights**
 
-`JavaScript` `p5.js` `HTML` `CSS`
+* Decentralized architecture
+* Protocol-oriented development
+* Rust implementation
+* Systems experimentation
 
-<a href="https://github.com/anoushkawayangankar/trex">
-View project →
+`Rust` `Web3` `Systems`
+
+<br>
+
+<a href="https://github.com/anoushkawayangankar/dao">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -140,21 +159,29 @@ View project →
 
 <div align="center">
 
-### Languages & Core
+### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=light"/>
-
-<br><br>
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs&theme=light"/>
+<img src="https://skillicons.dev/icons?i=swift,rust,js,ts,python,java&theme=light"/>
 
 <br><br>
 
-### Data & Development
+### Web & Application Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,html,css&theme=light"/>
+
+<br><br>
+
+### Data & Development Tools
 
 <img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode&theme=light"/>
+
+<br><br>
+
+### Apple Development
+
+<img src="https://skillicons.dev/icons?i=swift&theme=light"/>
+
+`SwiftUI` `Xcode` `iOS`
 
 </div>
 
@@ -165,17 +192,20 @@ View project →
 ```text
 ╭────────────────────────────────────────────────────╮
 │                                                    │
-│   ◇  PRODUCTIVITY                                  │
-│      tools that make everyday tasks simpler        │
+│   ◇  CREATIVE APPLICATIONS                         │
+│      interactive ideas brought to life             │
 │                                                    │
-│   ◇  WEB APPLICATIONS                              │
-│      interactive and useful digital experiences    │
+│   ◇  iOS EXPERIENCES                               │
+│      native apps with thoughtful interactions      │
 │                                                    │
 │   ◇  AI EXPERIENCES                                │
-│      smarter interfaces & personalized systems     │
+│      smarter and more personalized applications   │
+│                                                    │
+│   ◇  DISTRIBUTED SYSTEMS                           │
+│      exploring consistency, replication & CRDTs    │
 │                                                    │
 │   ◇  EXPERIMENTAL PROJECTS                         │
-│      ideas built simply to see "what if?"          │
+│      building simply to answer "what if?"          │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
 ```
@@ -186,16 +216,24 @@ View project →
 
 A few more experiments from my GitHub:
 
-| Project             | What it is                                      | Built with           |
-| :------------------ | :---------------------------------------------- | :------------------- |
-| **webdev**          | Collection of small web-development experiments | JavaScript           |
-| **FinanceTracker**  | Finance-focused application                     | JavaScript           |
-| **weather-app**     | Weather interface                               | React                |
-| **transactionproj** | Personal transaction manager                    | JavaScript           |
-| **trex**            | Browser game recreation                         | JavaScript / p5.js   |
-| **CREO**            | Adaptive AI learning platform                   | TypeScript / Next.js |
+| Project             | Description                        | Stack                |
+| :------------------ | :--------------------------------- | :------------------- |
+| **CREO**            | Adaptive AI learning platform      | TypeScript · Next.js |
+| **FinanceTracker**  | Personal finance management        | JavaScript           |
+| **transactionproj** | Transaction management application | JavaScript           |
+| **weather-app**     | Weather application                | React                |
+| **trex**            | Browser game recreation            | JavaScript · p5.js   |
+| **webdev**          | Web development experiments        | JavaScript           |
 
-→ **[Explore all repositories](https://github.com/anoushkawayangankar?tab=repositories)**
+<br>
+
+<div align="center">
+
+<a href="https://github.com/anoushkawayangankar?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -203,29 +241,79 @@ A few more experiments from my GitHub:
 
 ```yaml
 focus:
-  - building better web experiences
-  - understanding application architecture
+  - software development
+  - application architecture
   - AI-assisted products
+  - iOS development
+  - distributed systems
   - clean UI & interaction design
 
-mindset:
-  learn → build → break → understand → improve
+building:
+  - AirCanvas
+  - AccessLens
+  - CRDTdb
+  - DAO
 
-goal:
-  turn more ideas into real, usable software
+learning:
+  - systems programming
+  - distributed computing
+  - computer vision
+  - modern application development
+
+mindset:
+  - stay curious
+  - build often
+  - understand deeply
+  - keep experimenting
 ```
 
 ---
 
-## ♡ Outside the code
+## ♡ A developer's philosophy
 
-I believe good developers aren't just people who know a lot of syntax.
+<div align="center">
 
-They're people who are curious enough to ask:
+<br>
 
-> **"What can I build with this?"**
+> **"Don't just learn how something works.**
+>
+> **Build it. Break it. Understand it."**
 
-So I'm always experimenting, learning, and looking for the next idea worth turning into code.
+<br>
+
+</div>
+
+I believe the best way to learn software development is to keep making things.
+
+Some projects start with a problem.
+
+Some start with curiosity.
+
+And some start with a simple:
+
+**"What if I tried this?"**
+
+---
+
+## ✦ Beyond the code
+
+Technology is most interesting when it connects with real people and real problems.
+
+That's why I enjoy exploring projects across different areas — from accessibility and education to creative applications and distributed systems.
+
+Every project is another opportunity to learn something new.
+
+```text
+idea
+ ↓
+prototype
+ ↓
+experiment
+ ↓
+iterate
+ ↓
+ship
+```
 
 ---
 
@@ -236,13 +324,13 @@ So I'm always experimenting, learning, and looking for the next idea worth turni
 <br>
 
 <a href="https://github.com/anoushkawayangankar">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:A78BFA,100:8B5CF6&height=120&section=footer"/>
 
-<sub>made with curiosity · powered by coffee · improved one commit at a time</sub>
+<sub>made with curiosity · one experiment at a time</sub>
 
 </div>
